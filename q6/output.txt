@@ -1,0 +1,19 @@
+===== Inventory Catalog Concurrency Benchmark =====
+Warm-up run (ignored, lets the JVM optimise the code):
+--- Collections.synchronizedMap(HashMap) ---
+Threads: 10 | Operations: 50000
+Execution time : 68.277 ms
+Throughput     : 732309 operations/second
+
+Real benchmark runs:
+--- Collections.synchronizedMap(HashMap) ---
+Threads: 10 | Operations: 50000
+Execution time : 46.611 ms
+Throughput     : 1072697 operations/second
+
+--- ConcurrentHashMap ---
+Threads: 10 | Operations: 50000
+Execution time : 27.793 ms
+Throughput     : 1799042 operations/second
+
+ConcurrentHashMap throughput is 1.68 times that of synchronizedMap
