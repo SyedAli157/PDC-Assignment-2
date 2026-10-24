@@ -16,3 +16,5 @@ public class TradingEngineApp {
         System.out.println("===== All Events Dispatched =====");
     }
 }
+
+// Author: Syed Ali Haider (247172)
