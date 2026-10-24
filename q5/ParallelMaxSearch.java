@@ -34,3 +34,5 @@ public class ParallelMaxSearch extends SensorSearchEngine {
         return globalMax;
     }
 }
+
+// Author: Syed Ali Haider (247172)
