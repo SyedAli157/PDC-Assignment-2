@@ -30,3 +30,5 @@ public class ParallelRiskCalculator extends RecursiveTask<Double> {
         return leftResult + rightResult;
     }
 }
+
+// Author: Syed Ali Haider (247172)
