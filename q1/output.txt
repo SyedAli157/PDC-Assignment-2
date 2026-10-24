@@ -1,0 +1,9 @@
+===== Trading Engine Started =====
+[GENERIC EVENT] Sender: SYSTEM-01 | Time: 1730000000000 | Base Price: 100.0
+[FIX ORDER] Sender: FIX-GATEWAY | OrderID: ORD-1001 | Time: 1730000001000
+   BUY request -> Price: 250.50 | Fee (0.15%): 0.3758 | Total Cost: 250.8758
+[REUTERS QUOTE] Sender: REUTERS-FEED | Time: 1730000002000
+   Bid: 250.40 | Ask: 250.65 | Spread: 0.25 (0.100% of base price)
+[FIX ORDER] Sender: FIX-GATEWAY | OrderID: ORD-1002 | Time: 1730000003000
+   BUY request -> Price: 1200.00 | Fee (0.15%): 1.8000 | Total Cost: 1201.8000
+===== All Events Dispatched =====
