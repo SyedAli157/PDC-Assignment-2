@@ -1,0 +1,24 @@
+Auditing packet payload: racecar
+  Step 1: pop = 'r' , dequeue = 'r' -> MATCH
+  Step 2: pop = 'a' , dequeue = 'a' -> MATCH
+  Step 3: pop = 'c' , dequeue = 'c' -> MATCH
+  Step 4: pop = 'e' , dequeue = 'e' -> MATCH
+  Step 5: pop = 'c' , dequeue = 'c' -> MATCH
+  Step 6: pop = 'a' , dequeue = 'a' -> MATCH
+  Step 7: pop = 'r' , dequeue = 'r' -> MATCH
+  RESULT: Packet "racecar" is SYMMETRIC (palindrome) - VERIFIED
+
+Auditing packet payload: A1B2B1A
+  Step 1: pop = 'A' , dequeue = 'A' -> MATCH
+  Step 2: pop = '1' , dequeue = '1' -> MATCH
+  Step 3: pop = 'B' , dequeue = 'B' -> MATCH
+  Step 4: pop = '2' , dequeue = '2' -> MATCH
+  Step 5: pop = 'B' , dequeue = 'B' -> MATCH
+  Step 6: pop = '1' , dequeue = '1' -> MATCH
+  Step 7: pop = 'A' , dequeue = 'A' -> MATCH
+  RESULT: Packet "A1B2B1A" is SYMMETRIC (palindrome) - VERIFIED
+
+Auditing packet payload: NETWORK
+  Step 1: pop = 'K' , dequeue = 'N' -> MISMATCH
+  RESULT: Packet "NETWORK" is NOT symmetric - REJECTED
+
