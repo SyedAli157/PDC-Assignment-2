@@ -28,3 +28,5 @@ public class PortfolioThresholdTask extends RecursiveAction {
                   new PortfolioThresholdTask(assets, mid, end, riskCap));
     }
 }
+
+// Author: Syed Ali Haider (247172)
