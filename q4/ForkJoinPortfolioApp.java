@@ -47,3 +47,5 @@ public class ForkJoinPortfolioApp {
         pool.shutdown();
     }
 }
+
+// Author: Syed Ali Haider (247172)
