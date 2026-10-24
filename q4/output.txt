@@ -1,0 +1,9 @@
+Portfolio size      : 10000 assets
+Risk cap            : 800.0
+Serial total risk   : 5531329.36  (time: 0.1239 ms)
+Parallel total risk : 5531329.36  (time: 2.1620 ms)
+Available cores     : 1
+Stress-test time    : 1.0478 ms
+Assets penalised(5%): 2222
+Total risk after 5% penalty: 5431387.18
+Risk reduced by     : 99942.19
