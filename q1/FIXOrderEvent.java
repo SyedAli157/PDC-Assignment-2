@@ -17,3 +17,5 @@ public class FIXOrderEvent extends TradeEvent {
                 basePrice, fee, total);
     }
 }
+
+// Author: Syed Ali Haider (247172)
