@@ -1,0 +1,16 @@
+Sensor readings : 50000 | Worker threads per search : 4
+   MaxWorker-1 local max = 99.9999
+   MinWorker-1 local min = 20.0021
+   MinWorker-2 local min = 20.0009
+   MinWorker-3 local min = 20.0055
+   MinWorker-4 local min = 20.0204
+   MaxWorker-2 local max = 99.9981
+   MaxWorker-3 local max = 99.9932
+   MaxWorker-4 local max = 99.9929
+-------------------------------------------
+Global MIN temperature (critical low) : 20.0009
+Global MAX vibration   (critical high): 99.9999
+Min search time : 44.840 ms
+Max search time : 49.277 ms
+Total parallel time : 50.473 ms
+Serial check -> min: 20.0009 | max: 99.9999 | Results match: true
