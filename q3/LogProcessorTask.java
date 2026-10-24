@@ -12,3 +12,5 @@ public class LogProcessorTask implements Runnable {
         }
     }
 }
+
+// Author: Syed Ali Haider (247172)
