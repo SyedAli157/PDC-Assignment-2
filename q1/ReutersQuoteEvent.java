@@ -18,3 +18,5 @@ public class ReutersQuoteEvent extends TradeEvent {
                 bidPrice, askPrice, spread, spreadPercent);
     }
 }
+
+// Author: Syed Ali Haider (247172)
