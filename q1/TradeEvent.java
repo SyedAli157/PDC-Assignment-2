@@ -14,3 +14,5 @@ public class TradeEvent {
                 + " | Time: " + timestamp + " | Base Price: " + basePrice);
     }
 }
+
+// Author: Syed Ali Haider (247172)
