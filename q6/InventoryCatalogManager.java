@@ -65,3 +65,5 @@ public class InventoryCatalogManager {
         System.out.printf("ConcurrentHashMap throughput is %.2f times that of synchronizedMap%n", conc / sync);
     }
 }
+
+// Author: Syed Ali Haider (247172)
