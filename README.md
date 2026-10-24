@@ -13,3 +13,6 @@ Multithreaded telemetry engine using Thread and Runnable.
 
 ## Q4
 Parallel portfolio assessment using Fork/Join.
+
+## Q5
+Parallel min and max sensor search with 4 worker threads.
