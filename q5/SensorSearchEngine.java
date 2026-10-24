@@ -11,3 +11,5 @@ public abstract class SensorSearchEngine {
 
     public abstract double processGrid() throws InterruptedException;
 }
+
+// Author: Syed Ali Haider (247172)
