@@ -16,3 +16,6 @@ Parallel portfolio assessment using Fork/Join.
 
 ## Q5
 Parallel min and max sensor search with 4 worker threads.
+
+## Q6
+Inventory benchmark: synchronizedMap vs ConcurrentHashMap.
