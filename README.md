@@ -19,3 +19,6 @@ Parallel min and max sensor search with 4 worker threads.
 
 ## Q6
 Inventory benchmark: synchronizedMap vs ConcurrentHashMap.
+
+## Q7
+Cache locality benchmark: row-major vs column-major.
