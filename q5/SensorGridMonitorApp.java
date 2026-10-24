@@ -54,3 +54,5 @@ public class SensorGridMonitorApp {
                 + " | Results match: " + (sMin == result[0] && sMax == result[1]));
     }
 }
+
+// Author: Syed Ali Haider (247172)
