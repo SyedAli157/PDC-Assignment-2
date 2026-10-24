@@ -56,3 +56,5 @@ public class CacheLocalityBenchmark {
         System.out.printf("Speedup (Column / Row): %.2fx faster with Row-Major%n", avgCol / avgRow);
     }
 }
+
+// Author: Syed Ali Haider (247172)
