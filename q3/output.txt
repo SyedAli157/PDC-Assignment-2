@@ -1,0 +1,14 @@
+Default JVM thread name: main
+Both threads started. Telemetry alive: true | Log alive: true
+[TELEMETRY] Update 1 | CPU: 47% | Memory: 60% | Thread: Telemetry-Worker
+[LOG] Iteration 1 processed by Log-Worker
+[TELEMETRY] Update 2 | CPU: 54% | Memory: 65% | Thread: Telemetry-Worker
+[LOG] Iteration 2 processed by Log-Worker
+[TELEMETRY] Update 3 | CPU: 61% | Memory: 70% | Thread: Telemetry-Worker
+[LOG] Iteration 3 processed by Log-Worker
+[TELEMETRY] Update 4 | CPU: 68% | Memory: 75% | Thread: Telemetry-Worker
+[LOG] Iteration 4 processed by Log-Worker
+[TELEMETRY] Update 5 | CPU: 45% | Memory: 55% | Thread: Telemetry-Worker
+[LOG] Iteration 5 processed by Log-Worker
+Both threads finished. Telemetry alive: false | Log alive: false
+Main thread exiting.
