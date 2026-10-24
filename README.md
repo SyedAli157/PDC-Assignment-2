@@ -7,3 +7,6 @@ Trade event dispatcher using inheritance and method overriding.
 
 ## Q2
 Packet symmetry auditor using a custom stack and queue.
+
+## Q3
+Multithreaded telemetry engine using Thread and Runnable.
