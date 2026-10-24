@@ -4,3 +4,6 @@ Java solutions for Questions 1 to 7.
 
 ## Q1
 Trade event dispatcher using inheritance and method overriding.
+
+## Q2
+Packet symmetry auditor using a custom stack and queue.
