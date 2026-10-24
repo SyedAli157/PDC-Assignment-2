@@ -1,0 +1,16 @@
+Matrix size: 2000 x 2000 | Runs: 10
+Run | Row-Major (ms) | Column-Major (ms)
+  1 |          6.366 |            54.833
+  2 |          6.473 |            54.442
+  3 |          6.184 |            54.894
+  4 |          6.828 |            50.138
+  5 |          5.938 |            45.333
+  6 |          5.656 |            43.773
+  7 |          5.786 |            45.813
+  8 |          5.656 |            44.181
+  9 |          5.872 |            46.841
+ 10 |          6.039 |            45.065
+---------------------------------------------
+Average Row-Major    : 6.080 ms
+Average Column-Major : 48.531 ms
+Speedup (Column / Row): 7.98x faster with Row-Major
