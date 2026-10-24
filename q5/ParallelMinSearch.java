@@ -34,3 +34,5 @@ public class ParallelMinSearch extends SensorSearchEngine {
         return globalMin;
     }
 }
+
+// Author: Syed Ali Haider (247172)
